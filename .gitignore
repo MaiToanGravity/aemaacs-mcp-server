@@ -43,4 +43,4 @@ temp/
 aem-mcp-server/AEM_MCP_IMPROVEMENTS.md
 test-msg.txt
 .env
-packages/
+.env
